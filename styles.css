@@ -1,0 +1,80 @@
+img {
+    height: 200px;
+}
+
+.redcarpet {
+    text-align: center;
+}
+
+.ash {
+    margin: 40px;
+    border: 2px solid black;
+    background-color: #ffa49e;
+    padding: 20px;
+}
+
+.blackwidow {
+    margin: 40px;
+    border: 2px solid black;
+    background-color: #ffa49e;
+    padding: 20px;
+}
+
+.mcu {
+    margin: 40px;
+    border: 2px solid black;
+    background-color: #ffa49e;
+    padding: 20px;
+}
+
+.movies {
+    text-align: center;
+}
+
+html {
+    text-align: center;
+    background-color: #ff675c;
+    font-family: 'Satisfy', cursive;
+}
+
+h1 {
+    background-color: #ffa49e;
+    text-align: center;
+    border: 2px solid black;
+}
+
+h2 {
+    background-color: #ffa49e;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.friends {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cap {
+    padding: 20px;
+    background-color: #ffa49e;
+    border: 2px solid black;
+}
+
+.hulk {
+    padding: 20px;
+    background-color: #ffa49e;
+    border: 2px solid black;
+}
+
+.hawkeye {
+    padding: 20px;
+    background-color: #ffa49e;
+    border: 2px solid black;
+}
+
+.quotes {
+    margin: 40px;
+    border: 2px solid black;
+    background-color: #ffa49e;
+    padding: 20px;
+}
